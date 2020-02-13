@@ -1,0 +1,4 @@
+#Mon Jan 27 15:17:36 CST 2020
+base.0=/Volumes/CODECTI/AndroidStudioProjects/nestedscrollview/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
